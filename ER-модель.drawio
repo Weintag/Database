@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T10:15:25.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0 (Edition Yx GX)" etag="xU75N5ior1YVRO8uh5KG" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T10:42:27.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0 (Edition Yx GX)" etag="-oGTUrtnHq4D_gTeX5C4" version="20.8.20" type="github">
   <diagram name="Страница 1" id="ID2CKPYPKNp0tQGRStyJ">
     <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="te6IhhSMXkp1nojEugdk-34" value="Контактные&lt;br/&gt;данные" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="te6IhhSMXkp1nojEugdk-29" vertex="1">
           <mxGeometry y="155" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XM-jcbQ4MXYHoMz9ajDf-1" value="&lt;i&gt;Id_&lt;/i&gt;поставщика" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="te6IhhSMXkp1nojEugdk-29">
+        <mxCell id="XM-jcbQ4MXYHoMz9ajDf-1" value="&lt;i&gt;Id_&lt;/i&gt;поставщика" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="te6IhhSMXkp1nojEugdk-29" vertex="1">
           <mxGeometry y="20" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oky8tQyvbUXhzafB2VN_-1" value="Корзины" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -74,8 +74,8 @@
         <mxCell id="_lWh9LtP6iqVGxgOrkuz-6" value="Форма оплаты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Oky8tQyvbUXhzafB2VN_-1" vertex="1">
           <mxGeometry y="60" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_lWh9LtP6iqVGxgOrkuz-7" value="Дата заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Oky8tQyvbUXhzafB2VN_-1" vertex="1">
-          <mxGeometry y="80" width="90" height="30" as="geometry" />
+        <mxCell id="_lWh9LtP6iqVGxgOrkuz-7" value="Дата корзины" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Oky8tQyvbUXhzafB2VN_-1" vertex="1">
+          <mxGeometry x="-5" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_lWh9LtP6iqVGxgOrkuz-8" value="Дата доставки" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Oky8tQyvbUXhzafB2VN_-1" vertex="1">
           <mxGeometry y="100" width="100" height="30" as="geometry" />
