@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T12:33:45.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition Yx GX)" etag="FF7CQYQ0fx3UMuu5yxVO" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T03:57:08.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition Yx GX)" etag="69WSX6lsbAEYdayLpN0O" version="20.8.23" type="github">
   <diagram name="Страница 1" id="fm4NQVwMLk_AxpbGx4wM">
-    <mxGraphModel dx="961" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Sjta67yKNb1LLB2qg4SO-1" value="Поставщики" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="620" y="140" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Sjta67yKNb1LLB2qg4SO-2" value="+Id_поставщика (INT)&#xa;+Наименование организации (TEXT)&#xa;+Адрес VARCHAR (255)&#xa;+Товары VARCHAR (255)&#xa;+Контактные данные INT (12)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" parent="Sjta67yKNb1LLB2qg4SO-1" vertex="1">
+        <mxCell id="Sjta67yKNb1LLB2qg4SO-2" value="+Id_поставщика (INT)&#xa;+Наименование организации (TEXT)&#xa;+Адрес VARCHAR (255)&#xa;+Товары VARCHAR (255)&#xa;+Контактные данные BIGINT (50)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" parent="Sjta67yKNb1LLB2qg4SO-1" vertex="1">
           <mxGeometry y="30" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Sjta67yKNb1LLB2qg4SO-3" value="Корзины" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
